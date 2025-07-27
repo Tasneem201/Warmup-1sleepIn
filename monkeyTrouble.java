@@ -10,6 +10,4 @@ public class MonkeyTrouble {
         System.out.println("monkeyTrouble(true, false): " + m.monkeyTrouble(true, false));   // false
     }
 }
-public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
-    return aSmile == bSmile;
-}
+
